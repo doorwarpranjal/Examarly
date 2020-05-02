@@ -46,7 +46,7 @@ return (
                   <a href="#"><h5>5 Ways to Memorize Easily & Efficiently !</h5> </a>
                 </span>
                 <p>
-                I love Medium's membership — 
+                I love Examarly's membership — 
                 it gives me access to the stories I love by the writers & Books. 
                 </p>
                 <a className="waves-effect waves-light btn card-btn">
